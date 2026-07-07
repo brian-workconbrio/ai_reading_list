@@ -2,22 +2,24 @@
 
 A running, reverse chronological log of resources I personally found helpful in this brave new world. Newest entries at the top. A personal bibliography.
 
-Maintained by [Brian](https://github.com/brian-workconbrio) — Work Con Brio LLC.
+Maintained by [Brian](https://github.com/brian-workconbrio), Work Con Brio LLC.
 
 ---
 
-### #001 — 2026-07-05 — Example: A tool or workflow post
+### #001 — 2026-07-07 — Example: Entry
+
+- **Link:** [#015: The Mental Models I Use to Work With AI](https://metedata.substack.com/p/015-the-mental-models-i-use-to-work)
+- **Author:** Mete Polat
+- **Tags:** `themes`, `design`
+- **Notes:** Importance of upfront alignment resonates, and so did other themes. Loved "You don’t have to join a church to form your own understanding."
+
+### #000 — 2026-07-06 — Entry Template
 
 - **Link:** https://example.com/tool-post
+- **Author:** Regina Phalange
 - **Tags:** `tools`, `workflow`
-- **Why it's useful:** First entry — replace this and the two above with your real first finds, then delete this line.
-
-### #000 — 2026-07-06 — Example: Entry
-
-- **Link:** https://example.com/tool-post
-- **Tags:** `tools`, `workflow`
-- **Why it's useful:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- **Notes:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ---
 
-*Format: each entry gets a permanent, zero-padded numeric ID (never reused), a date, tags (freeform, added as they make sense), and a short note on why it mattered — not just what it is.*
+Format: each entry gets a permanent, zero-padded numeric ID, a date, tags (freeform, maybe), and a short note on what I found helpful
