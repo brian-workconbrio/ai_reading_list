@@ -2,11 +2,11 @@
 
 A running, reverse chronological log of resources I personally found helpful in this brave new world. Newest entries at the top. A personal bibliography.
 
-Maintained by [Brian](https://github.com/brian-workconbrio), Work Con Brio LLC.
+Maintained by [Brian](https://github.com/brian-workconbrio) at Work Con Brio LLC.
 
 ---
 
-### #001 — 2026-07-07 — Example: Entry
+### #001 — 2026-07-07 — Mental Models
 
 - **Link:** [#015: The Mental Models I Use to Work With AI](https://metedata.substack.com/p/015-the-mental-models-i-use-to-work)
 - **Author:** Mete Polat
