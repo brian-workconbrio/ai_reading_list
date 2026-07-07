@@ -1,0 +1,54 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Stage README",
+      "type": "process",
+      "command": "git",
+      "args": ["add", "README.md"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "Commit README",
+      "type": "process",
+      "command": "git",
+      "args": ["commit", "-m", "${input:commitMessage}"],
+      "dependsOrder": "sequence",
+      "dependsOn": ["Stage README"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "Push to GitHub",
+      "type": "process",
+      "command": "git",
+      "args": ["push"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "Commit and Push README",
+      "dependsOrder": "sequence",
+      "dependsOn": ["Commit README", "Push to GitHub"],
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "commitMessage",
+      "type": "promptString",
+      "description": "Commit message for this README update",
+      "default": "Update README"
+    }
+  ]
+}
