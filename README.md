@@ -6,6 +6,13 @@ Maintained by [Brian](https://github.com/brian-workconbrio) at Work Con Brio LLC
 
 ---
 
+### #002 — 2026-07-17 — Hardening Claude Code
+
+- **Link:** [Hardening Claude Code: A Security Review Framework and the Prompt That Does It For You](https://medium.com/@emergentcap/hardening-claude-code-a-security-review-framework-and-the-prompt-that-does-it-for-you-c546831f2cec)
+- **Author:** Tim McAllister
+- **Tags:** `security`
+- **Notes:** Get foundations in place and build from there.
+
 ### #001 — 2026-07-07 — Mental Models
 
 - **Link:** [#015: The Mental Models I Use to Work With AI](https://metedata.substack.com/p/015-the-mental-models-i-use-to-work)
