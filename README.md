@@ -5,6 +5,12 @@ A running, reverse chronological log of resources I personally found helpful in 
 Maintained by [Brian](https://github.com/brian-workconbrio) at Work Con Brio LLC.
 
 ---
+### #003 — 2026-07-20 — Team Brain Template
+
+- **Link:** [https://github.com/zoraxl/team-brain/blob/main/README.md](https://github.com/zoraxl/team-brain/blob/main/README.md)
+- **Author:** Zora Li
+- **Tags:** `tools`, `workflow`
+- **Notes:** A public template for an LLM-native team wiki and development workflow. I'm trying to use it for one collaborative project and one of my personal projects. I'm finding the structured approach very helpful. Note that some features that aid team-based projects that span repos aren't yet relevant to me.
 
 ### #002 — 2026-07-17 — Hardening Claude Code
 
